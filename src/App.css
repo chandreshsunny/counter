@@ -1,0 +1,17 @@
+
+.container{
+    padding-top:10%;
+}
+.list-group-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head{
+    text-decoration:underline;
+}
+.form-control{
+    border-color: blue;
+    border-width:2px;
+    border-radius:10px;
+}
